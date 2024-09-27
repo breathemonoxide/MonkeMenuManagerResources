@@ -1,0 +1,2 @@
+# MonkeMenuManagerResources
+Resources for MonkeMenuManager
